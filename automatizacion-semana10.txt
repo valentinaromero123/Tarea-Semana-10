@@ -1,0 +1,8 @@
+Evento: nuevo reporte registrado por un ciudadano.
+
+Acción: enviar un mensaje automático a Telegram mediante n8n.
+
+Mensaje: "Nuevo reporte recibido. Revisar el sistema para darle seguimiento."
+
+Información que no debe enviarse: nombres completos, documentos de identidad,
+direcciones, teléfonos, correos electrónicos, contraseñas ni otros datos personales o sensibles.
